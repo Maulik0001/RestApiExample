@@ -1,0 +1,24 @@
+[0602/224852:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/224853:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e6c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0602/224853:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\bthprops.cpl
+[0602/224854:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e6c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0602/224854:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\bthprops.cpl
+[0602/224854:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0602/224856:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e6c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0602/224856:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\bthprops.cpl
+[0602/224857:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6e6c0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0602/224857:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\bthprops.cpl
+[0615/230722:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0615/230722:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6df10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0615/230722:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome.dll
+[0615/230724:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6df10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0615/230724:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome.dll
+[0615/230724:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0615/230724:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6df10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0615/230724:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome.dll
+[0615/230726:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6df10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0615/230726:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome.dll
+[0615/230728:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6df10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0615/230728:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome.dll
+[0615/230728:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6df10000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0615/230728:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome.dll
